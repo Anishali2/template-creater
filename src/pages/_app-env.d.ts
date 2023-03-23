@@ -1,0 +1,5 @@
+declare module 'styled-components'
+declare module 'react-beautiful-dnd'
+declare module '@heroicons/react'
+declare module 'react-color'
+declare module 'redux-persist/integration/react'
